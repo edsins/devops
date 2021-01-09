@@ -11,7 +11,7 @@ namespace devops
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("code add now chnagess");
+            Console.WriteLine("code add now chnages2");
             Console.Read();
         }
     }
